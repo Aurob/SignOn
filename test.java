@@ -1,6 +1,6 @@
 public class test {
     public static void main(String []args){
-        error!!!!
+        error!!!!!
         System.out.println("SUCCESS")
     }
 }
